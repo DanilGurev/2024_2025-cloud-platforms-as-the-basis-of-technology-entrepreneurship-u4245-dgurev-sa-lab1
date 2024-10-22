@@ -1,0 +1,20 @@
+University: [ITMO University](https://itmo.ru/ru/)
+Faculty: FTMI
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024/2025
+
+Group: u4225
+
+Author: Gurev Danil Sergeevich
+
+Lab: Lab1
+
+Date of create: 21.09.2024
+
+Date of finished: 21.09.2024
+
+All info in one picture.
+
+Сначала были созданы получены доступы для работы в гугл-клауд, после созданы сервис аккаунты, далее была создана виртуальная машина с Machine type e2-micro в режиме spot, скопированы три файла и сделаны выводы, вот скриншот с выполненной операцией. 
